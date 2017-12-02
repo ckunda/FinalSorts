@@ -1,0 +1,51 @@
+Time Stamp of output: 2017.12.02.07.39.56
+
+Generic Quick Sort Example:
+
+Sorted Generic Collection:
+  -30
+  13
+  45
+  70
+  100
+
+Sorted Generic Collection:
+  Baker
+  Camille
+  Lee
+  adams
+  dixon
+  johnson
+
+Sorted Generic Collection:
+  StudentRecord [studentID=1, name=Chakra, gpa=3.1]
+  StudentRecord [studentID=3, name=Chan, gpa=3.3]
+  StudentRecord [studentID=2, name=Jeb, gpa=3.2]
+  StudentRecord [studentID=5, name=May, gpa=3.4]
+  StudentRecord [studentID=6, name=augustus, gpa=3.5]
+
+Generic Insertion Sort Example:
+
+Sorted Generic Collection:
+  -30
+  13
+  45
+  70
+  100
+
+Sorted Generic Collection:
+  Baker
+  Camille
+  Lee
+  adams
+  dixon
+  johnson
+
+Sorted Generic Collection:
+  StudentRecord [studentID=1, name=Chakra, gpa=3.1]
+  StudentRecord [studentID=3, name=Chan, gpa=3.3]
+  StudentRecord [studentID=2, name=Jeb, gpa=3.2]
+  StudentRecord [studentID=5, name=May, gpa=3.4]
+  StudentRecord [studentID=6, name=augustus, gpa=3.5]
+
+End of Tests.
